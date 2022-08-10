@@ -12,10 +12,10 @@ Me gustan los videojuegos🎮, voy diario al gimnasio🤸🏼‍♂️, de vez e
 
 <h2 align="center">¡Habla conmigo!</h2>
 <p align="center" justify-content="space-between">
-    <a target="_blank" href="https://co.linkedin.com/in/alexis-guzmán-bermúdez-137314223">
+    <a href="https://co.linkedin.com/in/alexis-guzmán-bermúdez-137314223" target="_blank">
         <img height="50px" src="https://cdn-icons-png.flaticon.com/512/356/356045.png" alt="LinkedIn">
     </a>
-    <a target="_blank" href="https://api.whatsapp.com/send?phone=573004236579">
+    <a href="https://api.whatsapp.com/send?phone=573004236579" target="_blank">
         <img height="50px" src="https://cdn-icons-png.flaticon.com/512/356/356033.png" alt="Whatsapp">
     </a>
 </p>
