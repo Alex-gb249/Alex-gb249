@@ -17,4 +17,5 @@ Me gustan los videojuegos🎮, voy diario al gimnasio🤸🏼‍♂️, de vez e
     </a>
     <a href="https://api.whatsapp.com/send?phone=573004236579">
         <img height="50px" src="https://cdn-icons-png.flaticon.com/512/356/356033.png" alt="Whatsapp">
+    </a>
 </p>
