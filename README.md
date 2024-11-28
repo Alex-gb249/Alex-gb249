@@ -1,6 +1,5 @@
 # 🦝 ¡Bienvenido!
 <p>Soy Alex 🙋🏼‍♂️, desarrollador Fullstack con mayor experiencia en .NET 👾 y Angular 🅰.</p>
-<br>
 
 ## 💙 Especialidades
 <p>Poseo más de 2 años de experiencia en el desarrollo web, utilizando tecnologías como las anteriormente mencionadas, .NET y Angular, lenguajes como C#, Javascript, Typescript, Java. Bases de datos como MySQL, SQL Server y PostgreSQL. Herramientas cómo Git, Github, Visual Studio Code, Visual Studio, Intellij.</p>
