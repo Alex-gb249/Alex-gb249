@@ -1,18 +1,17 @@
 # 🦝 ¡Bienvenido!
-Soy Alexis 🙋🏼‍♂️, desarrollador Backend en Java☕ con Spring🍃.
+<p>Soy Alex 🙋🏼‍♂️, desarrollador Fullstack con mayor experiencia en .NET 👾 y Angular 🅰.</p>
 <br>
-Y aunque Java me gusta mucho, en ocasiones me gusta programar con Python🐍 y Angular🅰.
 
 ## 💙 Especialidades
-Tengo 6 meses📆 de experiencia como desarrollador Java, pero si hay algo en lo que me considero especialmente bueno, es en lógica🧠 de programación.
+<p>Poseo más de 2 años de experiencia en el desarrollo web, utilizando tecnologías como las anteriormente mencionadas, .NET y Angular, lenguajes como C#, Javascript, Typescript, Java. Bases de datos como MySQL, SQL Server y PostgreSQL. Herramientas cómo Git, Github, Visual Studio Code, Visual Studio, Intellij.</p>
 
 
 ## ⚽ Hobbies
-Me gustan los videojuegos🎮, voy diario al gimnasio🤸🏼‍♂️, de vez en cuando me centro al dibujo✍, cada viernes me pongo a leer manga📖 y por supuesto, me dedico programar👨🏼‍💻.
+<p>Me gustan los videojuegos 🎮, de vez en cuando me centro al dibujo ✍, gusto por la cocina 🍳, voy de camping 🏕️, salgo con mis amigos 🫂 y por supuesto, me dedico programar👨🏼‍💻.</p>
 
 <h2 align="center">¡Habla conmigo!</h2>
 <p align="center" justify-content="space-between">
-    <a href="https://co.linkedin.com/in/alexis-guzmán-bermúdez-137314223" target="_blank">
+    <a href="https://www.linkedin.com/in/alexisbermudez/" target="_blank">
         <img height="50px" src="https://cdn-icons-png.flaticon.com/512/356/356045.png" alt="LinkedIn">
     </a>
     <a href="https://api.whatsapp.com/send?phone=573004236579" target="_blank">
